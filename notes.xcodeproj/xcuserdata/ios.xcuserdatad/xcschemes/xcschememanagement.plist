@@ -7,7 +7,30 @@
 		<key>notes.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>1</integer>
+		</dict>
+		<key>notesCI.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8104E1CE235F29BB009B01BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8104E1E4235F29BC009B01BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8104E1EF235F29BC009B01BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
